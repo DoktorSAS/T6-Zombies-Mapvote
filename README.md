@@ -79,7 +79,7 @@ set mv_BusDepot 1
 
 # **[Preview](https://www.youtube.com/watch?v=oMrE7_Bf4EI&feature=youtu.be)**
 
-![1168c7f4-9f80-4d8d-ab01-f4f5835818b6-image.png](/assets/uploads/files/1612707138446-1168c7f4-9f80-4d8d-ab01-f4f5835818b6-image.png) 
+![1168c7f4-9f80-4d8d-ab01-f4f5835818b6-image.png](https://forum.plutonium.pw/assets/uploads/files/1612707138446-1168c7f4-9f80-4d8d-ab01-f4f5835818b6-image.png) 
 
 # **Download**
 
